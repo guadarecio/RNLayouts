@@ -50,6 +50,7 @@ const App = () => {
               />
             </View>
           </ScrollView>
+          <Text style={styles.titulo}>¿Qué hacer en París?</Text>
         </View>
       </View>
     </>
